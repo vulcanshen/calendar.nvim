@@ -13,7 +13,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 {
-  "your-username/calendar.nvim",
+  "vulcanshen/calendar.nvim",
   dependencies = { "folke/snacks.nvim" },
   lazy = false,
   opts = {},
